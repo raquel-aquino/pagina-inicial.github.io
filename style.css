@@ -10,7 +10,7 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(300px, auto));;
     gap: 1em;
     column-gap: 2em;
-    grid-auto-rows: 10em;
+    grid-auto-rows: 7em;
 }
 
 nav .link {
