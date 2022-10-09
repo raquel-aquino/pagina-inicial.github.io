@@ -2,7 +2,7 @@ html, body {
     font-size: 16px;
     font-family: 'Manrope', sans-serif;
     padding: 1em 2em;
-    background-color: #827397;
+    background-color: #161722;
 }
 
 nav {
@@ -24,9 +24,9 @@ nav .link {
     font-family: inherit;
     cursor: pointer;
 
-    background: #827397;
-    box-shadow:  7px 7px 15px #7f7194,
-             -7px -7px 15px #85759a;
+    background: #161722;
+    box-shadow:  7px 7px 15px #1a1b28, 
+                -7px -7px 15px #1b1d2c;
 
     transition: color 0.8s, box-shadow 0.6s;
 }
@@ -34,9 +34,9 @@ nav .link {
 nav .link:hover {
     color: rgb(248, 248, 248);
 
-    background: linear-gradient(145deg, #8b7ba2, #756888);
-    box-shadow: 7px 7px 15px #6f6280,
-    -7px -7px 15px #9684ae;
+    background: linear-gradient(145deg, #25273c, #161722);
+    box-shadow: 7px 7px 15px #1b1d2c, 
+                -7px -7px 15px #24252d;
 
     transition: color 0.8s, box-shadow 0.6s;
 }
